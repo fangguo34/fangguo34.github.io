@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+# title: "Research"
 permalink: /research/
 author_profile: true
 # redirect_from: 
@@ -11,8 +11,8 @@ author_profile: true
 
 Working Papers
 ======
-1. [Partisan Registration: A Truthful Statement or A Strategic Choice?](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
-1. [Testing Testing](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
+* [Partisan Registration: A Truthful Statement or A Strategic Choice?](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
+* [Testing Testing](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
 
 <!-- Getting started
 ======
