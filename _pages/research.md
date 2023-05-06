@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /research/
 title: "Research - Fang Guo"
 excerpt: "Research"
 author_profile: true
