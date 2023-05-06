@@ -17,7 +17,7 @@ Education
 Work Experience
 ======
 * 2017-2019: Analyst at Cornerstone Research
-  * Analyzed data
+  <!-- * Analyzed data -->
 
 <!-- * Fall 2015: Research Assistant
   * Github University

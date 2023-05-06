@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome! I am a PhD candidate at Stanford GSB.
 
-Research
+<!-- Research
 ======
-My [LinkedIn](https://www.linkedin.com/in/fang-guo-39459a91). Testing.
+My [LinkedIn](https://www.linkedin.com/in/fang-guo-39459a91). Testing. -->
 
 <!-- Getting started
 ======
