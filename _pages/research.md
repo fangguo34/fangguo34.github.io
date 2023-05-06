@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /research/
-title: "Research - Fang Guo"
+title: "Research"
 excerpt: "Research"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,8 @@ redirect_from:
 
 Working Papers
 ======
-[3G Internet](http://fangguo34.github.io/files/paper1.pdf). Testing.
+1. [Partisan Registration: A Truthful Statement or A Strategic Choice?](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
+1. [Testing Testing](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
 
 <!-- Getting started
 ======
