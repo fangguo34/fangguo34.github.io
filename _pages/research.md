@@ -1,13 +1,13 @@
 ---
 layout: archive
-permalink: /research/
 title: "Research"
-excerpt: "Research"
+permalink: /research/
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
+  - /research
 ---
+
+{% include base_path %}
 
 Working Papers
 ======
