@@ -10,7 +10,7 @@ redirect_from:
 
 Working Papers
 ======
-[3G Internet](http://academicpages.github.io/files/paper1.pdf). Testing.
+[3G Internet](http://fangguo34.github.io/files/paper1.pdf). Testing.
 
 <!-- Getting started
 ======
