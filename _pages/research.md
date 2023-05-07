@@ -11,10 +11,15 @@ author_profile: true
 
 Working Papers
 ======
-* [The Impact of 3G Internet on Political Accountability
+<!-- * [The Impact of 3G Internet on Political Accountability
 Evidence from the U.S. House of Representatives](http://fangguo34.github.io/files/Political_Accountability_Draft_May_2023.pdf). 
-With Anna Dagorret.
+With Anna Dagorret. -->
 * [Partisan Registration: A Truthful Statement or A Strategic Choice?](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
+
+Work in Progress
+======
+* Local Environment and Political Beliefs
+* Have Changes to Media and Technology Helped to Nationalize American Elections? (With Daniel Thompson, Janet Malzahn, Andy Hall, Alexander Fouirnaies)
 
 <!-- Getting started
 ======
