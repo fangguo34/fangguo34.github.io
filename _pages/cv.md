@@ -27,8 +27,6 @@ Work Experience
 Skills
 ======
 * Programming: Python (scikit-learn, pandas, pytorch), R, SQL, Matlab, Java, Stata, SAS, Spark, Git
-<!-- * Machine Learning: linear regression, generalized linear model, regularization, naive bayes, regression tree, PCA, BERT
-* Causal Inference: difference-in-difference, regression discontinuity, propensity score matching, instrumental variable, synthetic controls, A/B testing -->
 * Languages: English (proficient), Mandarin (native speaker), French (intermediate)
 
 Conferences
