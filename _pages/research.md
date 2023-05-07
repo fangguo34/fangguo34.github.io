@@ -14,12 +14,14 @@ Working Papers
 <!-- * [The Impact of 3G Internet on Political Accountability
 Evidence from the U.S. House of Representatives](http://fangguo34.github.io/files/Political_Accountability_Draft_May_2023.pdf). 
 With Anna Dagorret. -->
-* [Partisan Registration: A Truthful Statement or A Strategic Choice?](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
+* [Partisan Registration: A Truthful Statement or A Strategic Choice?](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf)
 
 Work in Progress
 ======
+* The Impact of 3G Internet on Political Accountability Evidence from the U.S. House of Representatives (with Anna Dagorret)
 * Local Environment and Political Beliefs
-* Have Changes to Media and Technology Helped to Nationalize American Elections? (With Daniel Thompson, Janet Malzahn, Andy Hall, Alexander Fouirnaies)
+* Have Changes to Media and Technology Helped to Nationalize American Elections? (with Daniel Thompson, Janet Malzahn, Andy Hall, Alexander Fouirnaies)
+* The Prevalence, Dynamics, and Effects of Behavioral Polarization on Facebook (with Neil Malhotra, Jaime Settle, Magdalena Wojcieszak, Annie Franco)
 
 <!-- Getting started
 ======
