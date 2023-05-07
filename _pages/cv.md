@@ -16,7 +16,7 @@ Education
 
 Work Experience
 ======
-* 2017-2019: Analyst at Cornerstone Research
+* Cornerstone Research, Analyst, 2017-2019
   <!-- * Analyzed data -->
 
 <!-- * Fall 2015: Research Assistant
@@ -27,26 +27,8 @@ Work Experience
 Skills
 ======
 Python (scikit-learn, pandas, pytorch), R, SQL, Matlab, Java, Stata, SAS, Spark, Git
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-Service and leadership
+Service and Leadership
 ======
 * PhD Organization of Women at Stanford GSB, Co-President (2021-2022), Event Officer (2020-2021)
 * China Care Brown, Outreach Coordinator (2013-2017)
