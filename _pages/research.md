@@ -13,6 +13,7 @@ Working Papers
 ======
 * [The Impact of 3G Internet on Political Accountability
 Evidence from the U.S. House of Representatives](http://fangguo34.github.io/files/Political_Accountability_Draft_May_2023.pdf). 
+With Anna Dagorret.
 * [Partisan Registration: A Truthful Statement or A Strategic Choice?](http://fangguo34.github.io/files/Draft_20230301_Strategic_Registration_Latest.pdf). 
 
 <!-- Getting started
