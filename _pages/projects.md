@@ -12,5 +12,3 @@ author_profile: true
 Projects
 ======
 * Robust Question Answering with Task Adaptive Pretraining and Data Augmentation
-<!-- * The Causal Effects of the Runoff System
-* Shifts in State Narratives -->
