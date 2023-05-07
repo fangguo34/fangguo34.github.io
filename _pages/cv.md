@@ -17,16 +17,21 @@ Education
 Work Experience
 ======
 * Cornerstone Research, Analyst, 2017-2019
-  <!-- * Analyzed data -->
+  * Provided economic consulting services to companies involved in complex business litigations
 
-<!-- * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-  
 Skills
 ======
 Python (scikit-learn, pandas, pytorch), R, SQL, Matlab, Java, Stata, SAS, Spark, Git
+
+Conferences
+======
+* Berkeley-Stanford American Politics Conference, 2022
+* CAGE Summer School on New Research in Political Economy, 2022
+
+Honors and Awards
+======
+* Stanford GSB Ph.D. Fellowship, 2019-2024
+* Stanford Edge Fellowship, 2019-2021
   
 Service and Leadership
 ======
