@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate at Stanford GSB.
+Welcome! I am a PhD candidate at Stanford University, Graduate School of Business. I use causal inference and machine learning methods to study various topics at the intersection of economics, business, and political science.
 
 <!-- Research
 ======
