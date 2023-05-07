@@ -19,10 +19,10 @@ Work Experience
 * 2017-2019: Analyst at Cornerstone Research
   <!-- * Analyzed data -->
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
