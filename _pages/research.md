@@ -18,7 +18,7 @@ With Anna Dagorret. -->
 
 Work in Progress
 ======
-* The Impact of 3G Internet on Political Accountability Evidence from the U.S. House of Representatives (with Anna Dagorret)
+* The Impact of 3G Internet on Political Accountability, Evidence from the U.S. House of Representatives (with Anna Dagorret)
 * Have Changes to Media and Technology Helped to Nationalize American Elections? (with Daniel Thompson, Janet Malzahn, Andy Hall, Alexander Fouirnaies)
 * The Prevalence, Dynamics, and Effects of Behavioral Polarization on Facebook (with Neil Malhotra, Jaime Settle, Magdalena Wojcieszak, Annie Franco)
 * Local Environment and Political Beliefs
