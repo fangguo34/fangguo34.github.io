@@ -19,21 +19,16 @@ Work Experience
 * 2017-2019: Analyst at Cornerstone Research
   <!-- * Analyzed data -->
 
-<!-- * Fall 2015: Research Assistant
+* Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Python (scikit-learn, pandas, pytorch), R, SQL, Matlab, Java, Stata, SAS, Spark, Git
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -49,8 +44,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* PhD Organization of Women at Stanford GSB, Co-President (2021-2022), Event Officer (2020-2021)
+* China Care Brown, Outreach Coordinator (2013-2017)
