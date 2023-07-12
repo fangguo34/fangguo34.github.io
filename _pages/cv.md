@@ -34,6 +34,10 @@ Conferences
 * Berkeley-Stanford American Politics Conference, 2022
 * CAGE Summer School on New Research in Political Economy, 2022
 
+Teaching 
+======
+* PhD Microeconomics Theory, Fall 2020
+
 Honors and Awards
 ======
 * Stanford GSB Ph.D. Fellowship, 2019-2024
