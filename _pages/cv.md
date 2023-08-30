@@ -17,7 +17,7 @@ Education
 Work Experience
 ======
 * Instacart, Machine Learning Engineer/Economist Intern, Summer 2023
-  * Build heterogeneous treatment effect models to optimize pricing strategies.
+  * Built heterogeneous treatment effect models to optimize pricing strategies.
 
 * Cornerstone Research, Analyst, 2017-2019
   * Provided economic consulting services to companies involved in complex business litigations.
