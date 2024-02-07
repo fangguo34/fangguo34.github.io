@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Stanford University, Graduate School of Business, 2019-2024 (expected)
+* Ph.D., Stanford University, Graduate School of Business, 2019-2024
 * B.A., Brown University, Mathematics-Economics, 2013-2017
 
 Work Experience
 ======
-* Instacart, Machine Learning Engineer/Economist Intern, Summer 2023
-  * Built heterogeneous treatment effect models to optimize pricing strategies.
+* Instacart, Machine Learning Engineer/Economist, 2024 - Present
+  * Completed an internship in summer 2023.
+  * Build heterogeneous treatment effect models to optimize pricing strategies.
 
 * Cornerstone Research, Analyst, 2017-2019
   * Provided economic consulting services to companies involved in complex business litigations.

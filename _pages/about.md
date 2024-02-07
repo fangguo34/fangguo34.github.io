@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate at Stanford University, Graduate School of Business. I use causal inference and machine learning methods to study various topics at the intersection of economics, business, and political science.
+Welcome! I am a Machine Learning Engineer/Economist at Instacart. I received my PhD from Stanford University, Graduate School of Business.
+
+<!-- Welcome! I am a PhD candidate at Stanford University, Graduate School of Business. I use causal inference and machine learning methods to study various topics at the intersection of economics, business, and political science. -->
 
 <!-- Research
 ======
